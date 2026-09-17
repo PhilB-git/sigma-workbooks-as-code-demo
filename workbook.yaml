@@ -187,6 +187,7 @@ contents:
         fontSize: 16
       layout:
         anchor: center
+        verticalAnchor: center
       comparison:
         colorGood: '#16a34a'
         colorBad: '#dc2626'
